@@ -1,1 +1,1 @@
-/*{"name":"file.js","notes":["test lock"],"ver":[3,13],"uid":"pac","data":"file.js|3.12|pac||test lock","flags":"L","lock":false,"rels":{},"error":false,"hash":"025f089","stat":"M"}*/var x=1e3,y=1002;
+/*{"ver":[3,13],"notes":["test lock"]}*/var x=1e3,y=1002;console.log("xxx");
